@@ -4,6 +4,7 @@
     padding: 2rem;
     text-align: center;
 }
+
 header {
     display: flex;
     justify-content: space-between;
@@ -12,13 +13,17 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333; /* Fondo oscuro */
-    color: #fff; /* Texto claro */
+    background-color: #333;
+    /* Fondo oscuro */
+    color: #fff;
+    /* Texto claro */
     text-align: center;
-    z-index: 1000; /* Asegura que el encabezado esté sobre otros elementos */
+    z-index: 1000;
+    /* Asegura que el encabezado esté sobre otros elementos */
     padding: 1.5rem;
     padding-right: 3rem;
 }
+
 /* Estilos globales */
 body {
     font-family: "Arial", sans-serif;
@@ -44,17 +49,21 @@ ul {
 }
 
 li {
-    flex: 1 0 calc(33.333% - 20px); /* Ajusta según tu diseño */
+    flex: 1 0 calc(33.333% - 20px);
+    /* Ajusta según tu diseño */
     box-sizing: border-box;
     background: #000;
     overflow: auto;
     border-radius: 8px;
     padding: 20px;
+    transition: all 1s, transform 1s;
 }
+
 li:hover {
     background: #333;
-    scale: 1.05;
+    scale: 1.01;
 }
+
 a img {
     width: 2rem;
     height: 2rem;
@@ -65,19 +74,25 @@ img {
     aspect-ratio: 16/16;
     max-width: 100%;
     height: auto;
-    border-radius: 8px; /* Bordes redondeados */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    border-radius: 8px;
+    /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Sombra ligera */
     object-fit: cover;
+
+    transition: all 0.5s;
 }
 
 li:hover img {
-    scale: 1.1;
+    scale: 1.04;
 }
+
 p {
     margin-top: 8px;
     font-size: 1.1rem;
     line-height: 1.5;
 }
+
 li:hover p {
     padding: 0.5rem;
 }
@@ -85,7 +100,8 @@ li:hover p {
 /* Estilos responsivos */
 @media (max-width: 800px) {
     li {
-        flex: 1 0 calc(50% - 20px); /* 2 columnas en dispositivos pequeños */
+        flex: 1 0 calc(50% - 20px);
+        /* 2 columnas en dispositivos pequeños */
     }
 }
 
