@@ -1,35 +1,48 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from "react";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
+    const [imagenes, setImagenes] = useState([]);
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    useEffect(() => {
+        const cargarImagenes = async () => {
+            try {
+                // Cambia la ruta a la ubicación correcta de tu JSON
+                const response = await fetch("./zapatos.json");
+
+                if (!response.ok) {
+                    throw new Error("Error al cargar el JSON");
+                }
+
+                const data = await response.json();
+                setImagenes(data.imagenes);
+            } catch (error) {
+                console.error("Error:", error);
+            }
+        };
+
+        cargarImagenes();
+    }, []);
+
+    return (
+      <>
+      <header>
+        <h2>Catalogo</h2>
+        <a href="https://wa.link/oeyv14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" alt="logo de whatsapp" />Escribe al Whatsapp</a>
+      </header>
+        <main>
+            <ul>
+                {imagenes.map((imagen, index) => (
+                    <li key={index}>
+                        <img src={imagen.ruta} alt={imagen.nombre} />
+                        <p>Precio: ${imagen.precio + 50000}</p>
+                    </li>
+                ))}
+            </ul>
+        </main>
+      </>
+      
+    );
 }
 
-export default App
+export default App;

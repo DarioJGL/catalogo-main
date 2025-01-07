@@ -1,0 +1,494 @@
+{
+    "imagenes": [
+        {
+            "nombre": "IMG-20231122-WA0036",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0036.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0037",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0037.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0038",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0038.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0039",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0039.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0040",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0040.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0041",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0041.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0042",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0042.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0044",
+            "precio": 125000,
+            "ruta": "img/IMG-20231122-WA0044.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0045",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0045.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0046",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0046.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0047",
+            "precio": 127000,
+            "ruta": "img/IMG-20231122-WA0047.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0048",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0048.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0049",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0049.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0050",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0050.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0051",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0051.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0052",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0052.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0053",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0053.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0054",
+            "precio": 125000,
+            "ruta": "img/IMG-20231122-WA0054.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0055",
+            "precio": 125000,
+            "ruta": "img/IMG-20231122-WA0055.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0056",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0056.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0057",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0057.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0058",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0058.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0059",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0059.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0060",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0060.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0061",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0061.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0062",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0062.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0063",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0063.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0064",
+            "precio": 140000,
+            "ruta": "img/IMG-20231122-WA0064.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0065",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0065.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0066",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0066.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0067",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0067.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0068",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0068.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0069",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0069.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0070",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0070.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0071",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0071.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0072",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0072.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0073",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0073.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0074",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0074.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0075",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0075.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0076",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0076.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0078",
+            "precio": 150000,
+            "ruta": "img/IMG-20231122-WA0078.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0079",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0079.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0080",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0080.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0081",
+            "precio": 150000,
+            "ruta": "img/IMG-20231122-WA0081.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0082",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0082.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0083",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0083.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0084",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0084.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0085",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0085.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0086",
+            "precio": 130000,
+            "ruta": "img/IMG-20231122-WA0086.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0087",
+            "precio": 115000,
+            "ruta": "img/IMG-20231122-WA0087.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0088",
+            "precio": 115000,
+            "ruta": "img/IMG-20231122-WA0088.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0089",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0089.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0090",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0090.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0091",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0091.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0092",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0092.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0093",
+            "precio": 115000,
+            "ruta": "img/IMG-20231122-WA0093.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0094",
+            "precio": 110000,
+            "ruta": "img/IMG-20231122-WA0094.jpg"
+        },
+        {
+            "nombre": "IMG-20231122-WA0095",
+            "precio": 120000,
+            "ruta": "img/IMG-20231122-WA0095.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0001",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0001.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0002",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0002.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0003",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0003.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0011",
+            "precio": 120000,
+            "ruta": "img/IMG-20231120-WA0011.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0015",
+            "precio": 115000,
+            "ruta": "img/IMG-20231120-WA0015.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0045",
+            "precio": 105000,
+            "ruta": "img/IMG-20231120-WA0045.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0049",
+            "precio": 155000,
+            "ruta": "img/IMG-20231120-WA0049.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0058",
+            "precio": 120000,
+            "ruta": "img/IMG-20231120-WA0058.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0073",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0073.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0074",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0074.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0075",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0075.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0076",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0076.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0077",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0077.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0078",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0078.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0079",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0079.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0080",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0080.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0081",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0081.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0082",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0082.jpg"
+        },
+        {
+            "nombre": "IMG-20231120-WA0085",
+            "precio": 110000,
+            "ruta": "img/IMG-20231120-WA0085.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0017",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0017.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0018",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0018.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0019",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0019.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0021",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0021.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0023",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0023.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0024",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0024.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0051",
+            "precio": 115000,
+            "ruta": "img/IMG-20231119-WA0051.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0063",
+            "precio": 130000,
+            "ruta": "img/IMG-20231119-WA0063.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0069",
+            "precio": 125000,
+            "ruta": "img/IMG-20231119-WA0069.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0094",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0094.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0095",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0095.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0099",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0099.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0102",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0102.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0103",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0103.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0104",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0104.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0105",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0105.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0106",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0106.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0107",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0107.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0108",
+            "precio": 105000,
+            "ruta": "img/IMG-20231119-WA0108.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0110",
+            "precio": 110000,
+            "ruta": "img/IMG-20231119-WA0110.jpg"
+        },
+        {
+            "nombre": "IMG-20231119-WA0111",
+            "precio": 125000,
+            "ruta": "img/IMG-20231119-WA0111.jpg"
+        }
+    ]
+}
